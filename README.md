@@ -83,6 +83,8 @@ To implement Shortest Job First (SJF) Preemptive Scheduling
 8. Display the average waiting time and average turnaround time.
 
 ## PROGRAM:
+### Developed by : YUVARAJ.S
+### Register Number : 212222240119
 ```c
 #include<stdio.h>
 int main()
@@ -172,6 +174,8 @@ To implement Shortest Job First (SJF) Non-Preemptive Scheduling
 
 
 ## PROGRAM:
+### Developed by : YUVARAJ.S
+### Register Number : 212222240119
 ```py
 def sjf_non_preemptive(processes, burst_time):
     n = len(processes)
@@ -248,6 +252,8 @@ To implement Round Robin (RR) Scheduling
 9. Calculate and display the average waiting time (AWT) and average turnaround time (ATAT) for all processes.
 
 ## PROGRAM:
+### Developed by : YUVARAJ.S
+### Register Number : 212222240119
 ```c
 #include<stdio.h>
 
@@ -337,6 +343,8 @@ To implement Priority Preemptive Scheduling
 
 
 ## PROGRAM:
+### Developed by : YUVARAJ.S
+### Register Number : 212222240119
 ```py
 def priority_preemptive(processes, burst_time, priorities):
     n = len(processes)
@@ -412,6 +420,8 @@ To implement Priority Non-Preemptive Scheduling
 7. Calculate and display the average waiting time (AWT) and average turnaround time (ATAT) for all processes.
 
 ## PROGRAM:
+### Developed by : YUVARAJ.S
+### Register Number : 212222240119
 ```py
 def priority_non_preemptive(processes, burst_time, priorities):
     n = len(processes)
